@@ -668,5 +668,5 @@ Most of this comes from various sources:
 * Steve Blank "Four Steps to Epiphany"
 * Adeo Ressi "One sentence pitch"
 * [Problem interview scripts](http://startitup.co/guides/285/problem-interview-script)
-* Slides are available here [joyouscoding.com/workshop-mvp/](http://joyouscoding.com/workshop-mvp/)
+* Slides are available here [joyouscoding.com/workshop-mvp/](http://joyouscoding.com/from-idea-to-mvp/)
 * [Technical cofounders](https://techcrunch.com/2012/04/15/stop-looking-for-a-technical-co-founder/)
